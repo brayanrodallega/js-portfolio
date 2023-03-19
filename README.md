@@ -1,1 +1,2 @@
 # js-portfolio
+js-portfolio es un proyecto que utiliza la API de randomuser.me para generar portafolios de personas aleatorias. Convierte los datos en una plantilla atractiva y personalizable para mostrar información detallada de cada persona
